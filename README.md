@@ -1,4 +1,3 @@
-# My-project-dashboard
 # Superstore Sales Dashboard
 
 This Tableau dashboard provides a customer-centric view of Superstore sales from 2014 to 2017. It focuses on customer growth, sales performance, and purchasing behavior over time.
@@ -7,7 +6,7 @@ This Tableau dashboard provides a customer-centric view of Superstore sales from
 [View on Tableau Public] (https://public.tableau.com/app/profile/sirirat.khamsalao/viz/SuperstoreSalesDashboard_17542983907070/SuperstoreSalesDashboard)
 
 📸 **Preview:**
-![Dashboard Screenshot] (Screenshot - Superstore Sales Dashboard.png)
+![Dashboard Screenshot] ([Screenshot - Superstore Sales Dashboard.png)](https://github.com/ellesirirat/My-project-dashboard/blob/main/Screenshot%20-%20Superstore%20Sales%20Dashboard.png)
 
 ## 📊 Dashboard Features
 
@@ -22,12 +21,6 @@ This Tableau dashboard provides a customer-centric view of Superstore sales from
 
 - Tableau
 - Excel (for initial data preparation)
-
-## 📁 Files Included
-
-- `superstore_sales_dashboard.twbx` – Tableau dashboard file
-- `screenshot.png` – Preview of dashboard
-- `sales_data.xlsx` – (if applicable) cleaned data used in this project
 
 ## 📈 Insights Discovered
 
