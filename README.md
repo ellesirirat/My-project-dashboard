@@ -3,10 +3,10 @@
 This Tableau dashboard provides a customer-centric view of Superstore sales from 2014 to 2017. It focuses on customer growth, sales performance, and purchasing behavior over time.
 
 🔗 **Live Dashboard on Tableau Public:**  
-[View on Tableau Public] (https://public.tableau.com/app/profile/sirirat.khamsalao/viz/SuperstoreSalesDashboard_17542983907070/SuperstoreSalesDashboard)
+[View on Tableau Public] (https://public.tableau.com/shared/BBCBYS8D4?:display_count=n&:origin=viz_share_link)
 
 📸 **Preview:**
-![Dashboard Screenshot] ([Screenshot - Superstore Sales Dashboard.png)](https://github.com/ellesirirat/My-project-dashboard/blob/main/Screenshot%20-%20Superstore%20Sales%20Dashboard.png)
+![Screenshot - Superstore Sales Dashboard] ([Screenshot - Superstore Sales Dashboard.png)](https://github.com/ellesirirat/My-project-dashboard/blob/main/Screenshot%20-%20Superstore%20Sales%20Dashboard.png)
 
 ## 📊 Dashboard Features
 
