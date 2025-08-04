@@ -28,4 +28,4 @@ This Tableau dashboard provides a customer-centric view of Superstore sales from
 - Technology category generated the highest sales per customer (Copiers, Machines)
 - Most customers fall in the 0–2K sales bracket
 
-## 👤 Created by: Elle (Sirirat K.)
+#### Created by: Elle (Sirirat K.)
