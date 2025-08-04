@@ -6,7 +6,7 @@ This Tableau dashboard provides a customer-centric view of Superstore sales from
 [View on Tableau Public] (https://public.tableau.com/shared/BBCBYS8D4?:display_count=n&:origin=viz_share_link)
 
 📸 **Preview:**
-![Screenshot - Superstore Sales Dashboard] ([Screenshot - Superstore Sales Dashboard.png)](https://github.com/ellesirirat/My-project-dashboard/blob/main/Screenshot%20-%20Superstore%20Sales%20Dashboard.png)
+![Screenshot - Superstore Sales Dashboard](https://github.com/ellesirirat/My-project-dashboard/blob/main/Screenshot%20-%20Superstore%20Sales%20Dashboard.png)
 
 ## 📊 Dashboard Features
 
